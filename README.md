@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**ericabrito/ericabrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Nome ☕
 
-Here are some ideas to get you started:
+## 💼 Perfil Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Cursando o curso Técnico em Desenvovimento de Sistemas (SENAC - São Leopoldo)
+
+  ## 🚀 Habilidades
+
+  Aqui estão algumas das linguagens e tecnologias que estou aprendendo:
+
+  ### 🌐 Linguagens:
+
+
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+
+### ⚙️ Ferramentas:
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/74ca1367-0d6b-4a5d-9c5a-21148b6ef5b0/public_url">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
+  </a>
+
+  ### 📫 Contato:
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
