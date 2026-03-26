@@ -1,5 +1,5 @@
 
-# Olá, eu sou Erica Silva
+# Olá, eu sou Erica Silva👋
 
 ## 💼 Perfil Profissional
 
@@ -12,7 +12,6 @@
   Aqui estão algumas das linguagens e tecnologias que estou aprendendo:
 
   ### 🌐 Linguagens:
-
 
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
