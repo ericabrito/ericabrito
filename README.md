@@ -14,6 +14,8 @@
   ### 🌐 Linguagens:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 
 ### ⚙️ Ferramentas:
