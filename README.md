@@ -24,6 +24,10 @@
 <p>
   <a href="https://www.credly.com/badges/22c4e202-1616-46b8-8ae8-0ee3790f4316/public_url">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
+    
+  <a href="https://www.credly.com/badges/22c4e202-1616-46b8-8ae8-0ee3790f4316/public_url">
+    <img src="https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png"  width="100" style="margin-right: 10px;"/>
+
   </a>
 
   ### 📫 Contato:
