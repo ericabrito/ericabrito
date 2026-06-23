@@ -7,16 +7,15 @@
 - 👩‍💻 Cursando o curso Técnico em Infomática (ETEP- Portão)
 
 
-  ## 🚀 Habilidades
+## 🚀 Habilidades
 
   Aqui estão algumas das linguagens e tecnologias que estou aprendendo:
 
   ### 🌐 Linguagens:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ### ⚙️ Ferramentas:
 ## 🏅 Certifications
