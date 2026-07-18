@@ -27,6 +27,11 @@
   <a href="https://www.credly.com/badges/22c4e202-1616-46b8-8ae8-0ee3790f4316/public_url">
     <img src="https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png"  width="100" style="margin-right: 10px;"/>
 
+  <a  href="https://www.credly.com/badges/22c4e202-1616-46b8-8ae8-0ee3790f4316/public_url">
+  <img <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e2beb8b8-4f43-430f-8aed-55464ce0e69d" />
+
+
+
   </a>
 
   ### 📫 Contato:
