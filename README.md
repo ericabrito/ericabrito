@@ -29,9 +29,16 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ### ⚙️ Ferramentas
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+#### 🔹 Infraestrutura & Ferramentas de Trabalho
+![Windows](https://img.shields.io/badge/-Windows-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+---
 
 ### 🛢️ **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
