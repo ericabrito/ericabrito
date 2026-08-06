@@ -3,7 +3,7 @@
 
 ## 💼 Perfil Profissional
 - 👩‍💻 Cursando o curso Técnico em Desenvovimento de Sistemas (SENAC - São Leopoldo)
-- 👩‍💻 Concluído o curso Técnico em Infomática (ETEP- Portão)
+- 👩‍💻 Formada Técnico em Infomática (ETEP- Portão)
 
 ### 💻 Sobre Mim
 - 🌐 Foco atual no ecossistema *Front-End* e gerenciamento de *Bancos de Dados*.
