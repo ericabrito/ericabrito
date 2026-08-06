@@ -1,10 +1,15 @@
 
 # Olá, eu sou Erica Silva👋
 
-## 💼 Perfil Profissional
+### 💻 Sobre Mim
+- 🌐 Foco atual no ecossistema *Front-End* e gerenciamento de *Bancos de Dados*.
+- 🛠️ Experiência técnica com montagem, manutenção, redes e infraestrutura de TI.
+- 🚀 Versionando 100% dos meus códigos com *Git & GitHub* e aplicando boas práticas.
 
+---
+## 💼 Perfil Profissional
 - 👩‍💻 Cursando o curso Técnico em Desenvovimento de Sistemas (SENAC - São Leopoldo)
-- 👩‍💻 Cursando o curso Técnico em Infomática (ETEP- Portão)
+- 👩‍💻 Concluído o curso Técnico em Infomática (ETEP- Portão)
 
 
 ## 🚀 Habilidades
