@@ -13,8 +13,6 @@
 ---
 ## 🚀 Habilidades
 
-  Aqui estão algumas das linguagens e tecnologias que estou aprendendo:
-
   ### 🌐 Linguagens:
 
   [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
