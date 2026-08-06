@@ -1,17 +1,16 @@
 
 # Olá, eu sou Erica Silva👋
 
+## 💼 Perfil Profissional
+- 👩‍💻 Cursando o curso Técnico em Desenvovimento de Sistemas (SENAC - São Leopoldo)
+- 👩‍💻 Concluído o curso Técnico em Infomática (ETEP- Portão)
+
 ### 💻 Sobre Mim
 - 🌐 Foco atual no ecossistema *Front-End* e gerenciamento de *Bancos de Dados*.
 - 🛠️ Experiência técnica com montagem, manutenção, redes e infraestrutura de TI.
 - 🚀 Versionando 100% dos meus códigos com *Git & GitHub* e aplicando boas práticas.
 
 ---
-## 💼 Perfil Profissional
-- 👩‍💻 Cursando o curso Técnico em Desenvovimento de Sistemas (SENAC - São Leopoldo)
-- 👩‍💻 Concluído o curso Técnico em Infomática (ETEP- Portão)
-
-
 ## 🚀 Habilidades
 
   Aqui estão algumas das linguagens e tecnologias que estou aprendendo:
@@ -27,16 +26,17 @@
 
 ### 🧩 Software/IDE
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ### ⚙️ Ferramentas
 ![GitHub](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-24292F?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-24292F?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 #### 🔹 Infraestrutura & Ferramentas de Trabalho
-![Windows](https://img.shields.io/badge/-Windows-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Window](https://img.shields.io/badge/-Windows-00C4CC?style=for-the-badge&logo=Window&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-0079BF?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
