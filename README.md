@@ -54,6 +54,9 @@
 
  <a href="https://www.credly.com/badges/22c4e202-1616-46b8-8ae8-0ee3790f4316/public_url">
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3bfbdb85-63a3-423d-9ba0-f0e05ff7e071" />
+   
+  <a href="https://www.credly.com/badges/22c4e202-1616-46b8-8ae8-0ee3790f4316/public_url">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/82bc65e0-c20b-4ead-9804-ed60d824f4be" />
 
 
   </a>
