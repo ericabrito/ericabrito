@@ -3,7 +3,7 @@
 
 ## 💼 Perfil Profissional
 - **Técnico em Desenvolvimento de Sistemas** — *SENAC* (Cursando)
-- **Técnico em Informática** — *Escola Técnica Estadual de Portão/ETEP* (Cursando) 
+- **Técnico em Informática** — *Escola Técnica Estadual de Portão/ETEP*
 
 ### 💻 Sobre Mim
 - 🌐 Foco atual no ecossistema *Front-End* e gerenciamento de *Bancos de Dados*.
