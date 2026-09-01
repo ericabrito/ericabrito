@@ -1,5 +1,5 @@
 
-# Olá, eu sou Erica Silva👋
+# Olá, sou Erica Silva👋
 
 ## 💼 Perfil Profissional
 - **Técnico em Desenvolvimento de Sistemas** — *SENAC* (Cursando)
